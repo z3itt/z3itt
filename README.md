@@ -1,3 +1,5 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/852639383223795803)](https://discord.com/users/852639383223795803)
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=100&lines=Hey+There!+%F0%9F%91%8B;I'm+z3itt;Discord+Bot+Developer+%F0%9F%A4%96;Tool+Builder+%F0%9F%9B%A0%EF%B8%8F;Automation+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
 </div>
@@ -120,8 +122,8 @@ Universal file converter & compressor web server. Supports office docs, images, 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=z3itt&show_icons=true&count_private=true&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3itt&layout=compact&hide_border=true&title_color=00e5ff&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=z3itt&show_icons=true&count_private=true&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=z3itt&layout=compact&hide_border=true&title_color=00e5ff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
@@ -135,8 +137,7 @@ Universal file converter & compressor web server. Supports office docs, images, 
 
 ## 💭 Philosophy
 
-> "Talk is cheap. Show me the code."
-> — Linus Torvalds
+> "LIVE YOUR FUCKING BEST LIFE"
 
 ```javascript
 const z3itt = {
@@ -148,8 +149,9 @@ const z3itt = {
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
-  <h3>⚡ "Building tools that make life easier" ⚡</h3>
-  <p><i>⭐ From <a href="https://github.com/z3itt">z3itt</a></i></p>
+  <h4>its never to late to</h4>
+  <h1><strong>lock in.</strong></h1>
+  <p><i>From <a href="https://github.com/z3itt">z3itt</a></i></p>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 </div>
 
