@@ -12,6 +12,7 @@
 
 ## 🎯 About Me
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=z3itt&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/z3itt?color=00E5FF&style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/z3itt?color=00E5FF&style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
 </p>
