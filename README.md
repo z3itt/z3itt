@@ -1,12 +1,12 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/852639383223795803)](https://discord.com/users/852639383223795803)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=100&lines=Hey+There!+%F0%9F%91%8B;I'm+z3itt;Discord+Bot+Developer+%F0%9F%A4%96;Tool+Builder+%F0%9F%9B%A0%EF%B8%8F;Automation+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=100&lines=Hey+There!+%F0%9F%91%8B;I'm+z3itt;Discord+Bot+Developer+%F0%9F%A4%96;Tool+Builder+%F0%9F%9B%A0%EF%B8%8F;Homelab+Enthusiast+%F0%9F%96%A5%EF%B8%8F;Automation+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
-    🤖 Discord Bot Developer | 🛠️ Tool Builder | 📚 Student
+    🤖 Discord Bot Developer | 🛠️ Tool Builder | 🖥️ Homelab Enthusiast
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 </h3>
 
@@ -29,7 +29,7 @@ class z3itt:
         self.interests = [
             "Discord Bots",
             "Automation Tools",
-            "File Conversion Engines",
+            "Homelab & Self-Hosting",
             "Desktop Applications"
         ]
 
@@ -37,8 +37,8 @@ class z3itt:
         return [
             "🤖 Building Discord bots",
             "🛠️ Creating useful tools & utilities",
-            "⚡ Automating boring stuff",
-            "📚 Learning new technologies"
+            "🖥️ Managing my Homeserver",
+            "⚡ Automating boring stuff"
         ]
 
     def say_hi(self):
@@ -51,8 +51,8 @@ me.say_hi()
 ### 🌟 Highlights
 - 🤖 Building **Discord bots** for server management, music, and AI chat
 - 🛠️ Creating **desktop tools** like auto-clickers and file converters
+- 🖥️ Building and self-hosting services on my **Homelab / Homeserver**
 - ⚡ Passionate about **automation** and making life easier with code
-- 📚 Currently **learning and growing** as a developer
 
 </details>
 
@@ -86,7 +86,11 @@ me.say_hi()
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyInstaller](https://img.shields.io/badge/PyInstaller-%23FFDD00.svg?style=for-the-badge&logo=python&logoColor=black)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-%23007808.svg?style=for-the-badge&logo=ffmpeg&logoColor=white)
+
+### 🖥️ Homelab & Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 🚀 Featured Projects
 
