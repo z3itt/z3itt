@@ -127,7 +127,7 @@ Universal file converter & compressor web server. Supports office docs, images, 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=z3itt&show_icons=true&count_private=true&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=z3itt&show_icons=true&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=z3itt&layout=compact&hide_border=true&title_color=00e5ff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
