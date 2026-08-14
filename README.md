@@ -93,6 +93,21 @@ me.say_hi()
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+## 🌟 Flagship Project
+
+<div align="center">
+  
+### [Z3 Bot — The Smartest Way to Manage Your Discord Server](https://bot.z3itt.com/)
+
+*Z3 Bot is my **verified**, full-scale Discord bot featuring a **Modern Web Dashboard**, **Music Streaming**, **Temp Voice Channels**, and **Advanced Moderation**.*
+
+[![Website](https://img.shields.io/badge/Visit_Website-00E5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://bot.z3itt.com/)
+[![Invite](https://img.shields.io/badge/Add_to_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1535333797401329805&permissions=8&integration_type=0&scope=bot)
+[![Panel](https://img.shields.io/badge/Web_Dashboard-121011?style=for-the-badge&logo=react&logoColor=00E5FF)](https://bot.z3itt.com/dashboard)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+</div>
+
 ## 🚀 Featured Projects
 
 <table>
