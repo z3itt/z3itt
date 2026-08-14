@@ -51,7 +51,7 @@ me.say_hi()
 
 ### 🌟 Highlights
 - 🤖 Building **Discord bots** for server management, music, and AI chat
-- 🛠️ Creating **desktop tools** like auto-clickers and file converters
+- 🛠️ Creating **desktop tools** for quality-of-life improvements
 - 🖥️ Building and self-hosting services on my **Homelab / Homeserver**
 - ⚡ Passionate about **automation** and making life easier with code
 
