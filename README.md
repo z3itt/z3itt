@@ -177,8 +177,9 @@ Universal file converter and compressor web server for office docs, images, vide
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
-  <p><strong>Build useful things. Ship them. Iterate.</strong></p>
-  <p><i><a href="https://github.com/z3itt">z3itt</a> · Turkey · info@z3itt.com</i></p>
+  <h4>its never to late to</h4>
+  <h1><strong>lock in.</strong></h1>
+  <p><i>From <a href="https://github.com/z3itt">z3itt</a></i></p>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 </div>
 
