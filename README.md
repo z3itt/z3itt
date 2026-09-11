@@ -136,7 +136,7 @@ On-device **vocal / instrumental** stem separation for Linux and Windows. Paste 
 `Rust` `Tauri` `React` `ONNX` `GPL-3.0`
 
 [![Release](https://img.shields.io/github/v/release/z3itt/Dualis?label=release&color=00E5FF&style=flat-square)](https://github.com/z3itt/Dualis/releases)
-[![License](https://img.shields.io/github/license/z3itt/Dualis?style=flat-square)](https://github.com/z3itt/Dualis/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square)](https://github.com/z3itt/Dualis/blob/main/LICENSE)
 
 </td>
 <td width="50%" valign="top">
@@ -147,7 +147,7 @@ Native **phone / tablet** sibling of Dualis. Same local ONNX split and dual-stem
 `Kotlin` `Jetpack Compose` `ONNX` `GPL-3.0`
 
 [![Release](https://img.shields.io/github/v/release/z3itt/Dualis-for-Android?label=release&color=00E5FF&style=flat-square)](https://github.com/z3itt/Dualis-for-Android/releases)
-[![License](https://img.shields.io/github/license/z3itt/Dualis-for-Android?style=flat-square)](https://github.com/z3itt/Dualis-for-Android/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square)](https://github.com/z3itt/Dualis-for-Android/blob/main/LICENSE)
 
 </td>
 </tr>
@@ -160,7 +160,7 @@ Local-first **feelings wheel** for Android. Log check-ins, review mood patterns,
 `Kotlin` `Jetpack Compose` `SQLCipher` `GPL-3.0`
 
 [![Release](https://img.shields.io/github/v/release/z3itt/FeelS?label=release&color=00E5FF&style=flat-square)](https://github.com/z3itt/FeelS/releases)
-[![License](https://img.shields.io/github/license/z3itt/FeelS?style=flat-square)](https://github.com/z3itt/FeelS/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square)](https://github.com/z3itt/FeelS/blob/main/LICENSE)
 
 </td>
 <td width="50%" valign="top">
@@ -195,18 +195,22 @@ Universal file converter and compressor web server for office docs, images, vide
 ## GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=z3itt&show_icons=true&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&bg_color=0d1117&v=3" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=z3itt&layout=compact&hide_border=true&title_color=00e5ff&text_color=c9d1d9&bg_color=0d1117&v=3" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=z3itt&show_icons=true&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3itt&layout=compact&hide_border=true&title_color=00e5ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=z3itt&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" alt="Streak Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=z3itt&theme=transparent&hide_border=true&background=0D1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&stroke=00e5ff&card_width=495" alt="Streak Stats"/>
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z3itt&theme=github_dark" alt="Profile Summary"/>
 </div>
 
 ## Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=z3itt&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img src="https://ghchart.rshah.org/00e5ff/z3itt" alt="z3itt contribution chart" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=z3itt&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true&custom_title=Last%2031%20days&radius=16&height=300&days=31&area_color=003d44" alt="GitHub activity graph" />
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
