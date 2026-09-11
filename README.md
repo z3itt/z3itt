@@ -27,8 +27,9 @@ class z3itt:
     def __init__(self):
         self.name = "z3itt"
         self.role = "Developer · Discord bots · Android · Automation"
-        self.languages = ["Python", "JavaScript", "Kotlin"]
+        self.languages = ["Python", "JavaScript", "Kotlin", "Rust"]
         self.interests = [
+            "On-device music tools (vocal / instrumental stems)",
             "Discord bots & dashboards",
             "Android apps (local-first, privacy-focused)",
             "Automation & desktop tools",
@@ -37,7 +38,8 @@ class z3itt:
 
     def current_focus(self):
         return [
-            "Shipping FeelS, a local-first feelings wheel for Android",
+            "Shipping Dualis on desktop and Android",
+            "Maintaining FeelS, a local-first feelings wheel",
             "Building and maintaining Z3 Bot",
             "Creating utilities that save time",
             "Running services on my homelab",
@@ -51,6 +53,8 @@ me.say_hi()
 ```
 
 **Highlights**
+- **[Dualis](https://github.com/z3itt/Dualis)** desktop: on-device vocal / instrumental stems for Linux and Windows (Tauri, Rust, GPL-3.0)
+- **[Dualis for Android](https://github.com/z3itt/Dualis-for-Android)**: native Compose sibling, same local ONNX split, no Play Store
 - Open-source Android app **[FeelS](https://github.com/z3itt/FeelS)** (Kotlin, Jetpack Compose, GPL-3.0)
 - Verified Discord bot **[Z3 Bot](https://bot.z3itt.com/)** with web dashboard
 - Automation pipelines, desktop tools, and self-hosted infrastructure
@@ -80,6 +84,7 @@ me.say_hi()
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -93,6 +98,10 @@ me.say_hi()
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
+### Desktop & ML
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+
 ### Tools & Infrastructure
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -104,7 +113,7 @@ me.say_hi()
 
 <div align="center">
 
-### [Z3 Bot — Discord server management platform](https://bot.z3itt.com/)
+### [Z3 Bot: Discord server management platform](https://bot.z3itt.com/)
 
 Verified Discord bot with a modern web dashboard, music streaming, temp voice channels, and advanced moderation.
 
@@ -118,6 +127,30 @@ Verified Discord bot with a modern web dashboard, music streaming, temp voice ch
 ## Featured Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### [Dualis](https://github.com/z3itt/Dualis)
+On-device **vocal / instrumental** stem separation for Linux and Windows. Paste a Spotify or YouTube link, split locally with ONNX, play both stems in sync.
+
+`Rust` `Tauri` `React` `ONNX` `GPL-3.0`
+
+[![Release](https://img.shields.io/github/v/release/z3itt/Dualis?label=release&color=00E5FF&style=flat-square)](https://github.com/z3itt/Dualis/releases)
+[![License](https://img.shields.io/github/license/z3itt/Dualis?style=flat-square)](https://github.com/z3itt/Dualis/blob/main/LICENSE)
+
+</td>
+<td width="50%" valign="top">
+
+### [Dualis for Android](https://github.com/z3itt/Dualis-for-Android)
+Native **phone / tablet** sibling of Dualis. Same local ONNX split and dual-stem player, Jetpack Compose UI, lock-screen mini player. Not a WebView wrap. GitHub Releases + F-Droid only.
+
+`Kotlin` `Jetpack Compose` `ONNX` `GPL-3.0`
+
+[![Release](https://img.shields.io/github/v/release/z3itt/Dualis-for-Android?label=release&color=00E5FF&style=flat-square)](https://github.com/z3itt/Dualis-for-Android/releases)
+[![License](https://img.shields.io/github/license/z3itt/Dualis-for-Android?style=flat-square)](https://github.com/z3itt/Dualis-for-Android/blob/main/LICENSE)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
