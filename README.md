@@ -28,12 +28,6 @@ class z3itt:
         self.name = "z3itt"
         self.role = "Developer · Discord bots · Android · Automation"
         self.languages = ["Python", "JavaScript", "Kotlin", "Rust", "HTML", "CSS"]
-        self.stack = {
-            "discord_backend": ["Discord.js", "Discord.py", "Node.js", "Express.js"],
-            "android": ["Jetpack Compose"],
-            "desktop_ml": ["Tauri", "ONNX"],
-            "tools": ["Git", "GitHub", "Docker", "Linux", "FFmpeg"],
-        }
         self.interests = [
             "On-device music tools (vocal / instrumental stems)",
             "Discord bots & dashboards",
