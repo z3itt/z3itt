@@ -210,11 +210,6 @@ Universal file converter and compressor web server for office docs, images, vide
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z3itt&theme=github_dark" alt="Profile Summary"/>
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z3itt&theme=github_dark" alt="Most commit language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=z3itt&theme=github_dark" alt="Productive time" />
-</div>
-
 ## Activity
 
 <div align="center">
