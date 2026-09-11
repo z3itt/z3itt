@@ -27,7 +27,13 @@ class z3itt:
     def __init__(self):
         self.name = "z3itt"
         self.role = "Developer · Discord bots · Android · Automation"
-        self.languages = ["Python", "JavaScript", "Kotlin", "Rust"]
+        self.languages = ["Python", "JavaScript", "Kotlin", "Rust", "HTML", "CSS"]
+        self.stack = {
+            "discord_backend": ["Discord.js", "Discord.py", "Node.js", "Express.js"],
+            "android": ["Jetpack Compose"],
+            "desktop_ml": ["Tauri", "ONNX"],
+            "tools": ["Git", "GitHub", "Docker", "Linux", "FFmpeg"],
+        }
         self.interests = [
             "On-device music tools (vocal / instrumental stems)",
             "Discord bots & dashboards",
@@ -38,7 +44,7 @@ class z3itt:
 
     def current_focus(self):
         return [
-            "Shipping Dualis on desktop and Android",
+            "Shipping Dualis on desktop (Tauri / Rust / ONNX) and Android (Compose)",
             "Maintaining FeelS, a local-first feelings wheel",
             "Building and maintaining Z3 Bot",
             "Creating utilities that save time",
@@ -53,11 +59,11 @@ me.say_hi()
 ```
 
 **Highlights**
-- **[Dualis](https://github.com/z3itt/Dualis)** desktop: on-device vocal / instrumental stems for Linux and Windows (Tauri, Rust, GPL-3.0)
-- **[Dualis for Android](https://github.com/z3itt/Dualis-for-Android)**: native Compose sibling, same local ONNX split, no Play Store
-- Open-source Android app **[FeelS](https://github.com/z3itt/FeelS)** (Kotlin, Jetpack Compose, GPL-3.0)
-- Verified Discord bot **[Z3 Bot](https://bot.z3itt.com/)** with web dashboard
-- Automation pipelines, desktop tools, and self-hosted infrastructure
+- **[Dualis](https://github.com/z3itt/Dualis)** desktop: Tauri, Rust, ONNX, GPL-3.0
+- **[Dualis for Android](https://github.com/z3itt/Dualis-for-Android)**: Kotlin, Jetpack Compose, ONNX
+- **[FeelS](https://github.com/z3itt/FeelS)**: Kotlin, Jetpack Compose, GPL-3.0
+- **[Z3 Bot](https://bot.z3itt.com/)** with web dashboard
+- Automation / desktop tools / homelab: Python, FFmpeg, Docker, Linux
 
 </details>
 
@@ -195,8 +201,8 @@ Universal file converter and compressor web server for office docs, images, vide
 ## GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=z3itt&show_icons=true&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3itt&layout=compact&hide_border=true&title_color=00e5ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z3itt&theme=github_dark" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z3itt&theme=github_dark" alt="Repos per language" />
 </div>
 
 <div align="center">
@@ -204,12 +210,15 @@ Universal file converter and compressor web server for office docs, images, vide
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z3itt&theme=github_dark" alt="Profile Summary"/>
 </div>
 
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z3itt&theme=github_dark" alt="Most commit language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=z3itt&theme=github_dark" alt="Productive time" />
+</div>
+
 ## Activity
 
 <div align="center">
   <img src="https://ghchart.rshah.org/00e5ff/z3itt" alt="z3itt contribution chart" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=z3itt&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true&custom_title=Last%2031%20days&radius=16&height=300&days=31&area_color=003d44" alt="GitHub activity graph" />
 </div>
 
 <div align="center">
