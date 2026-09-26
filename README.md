@@ -6,7 +6,7 @@
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
-  Discord Bot Developer · Android · Tools · Homelab
+  Developer · Student · Android · Tools · Homelab
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 </h3>
 
@@ -26,7 +26,7 @@
 class z3itt:
     def __init__(self):
         self.name = "z3itt"
-        self.role = "Developer · Discord bots · Android · Automation"
+        self.role = "Developer · Student"
         self.languages = ["Python", "JavaScript", "Kotlin", "Rust", "HTML", "CSS"]
         self.interests = [
             "On-device music tools (vocal / instrumental stems)",
