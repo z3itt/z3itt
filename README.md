@@ -78,7 +78,6 @@ me.say_hi()
   </a>
 </p>
 
-## Tech Stack
 ## Core Stack
 ### Languages
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
